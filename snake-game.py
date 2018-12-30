@@ -5,6 +5,7 @@
 #
 # UPDATE: Corrected my comments to reflect python syntax. No more "array".
 
+
 import curses
 from curses import KEY_RIGHT, KEY_LEFT, KEY_UP, KEY_DOWN, A_BOLD, A_UNDERLINE
 from random import randint
